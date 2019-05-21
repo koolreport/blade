@@ -27,7 +27,7 @@ class MyReport extends \koolreport\KoolReport
         $viewsFolder = __DIR__."/views";
         $cacheFolder = __DIR__."/cache";
         $blade = new \Jenssegers\Blade\Blade($viewsFolder, $cacheFolder);
-        return $blade
+        return $blade;
     }
 }
 ```
