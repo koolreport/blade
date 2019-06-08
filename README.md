@@ -25,7 +25,7 @@ koolreport
 #### By composer
 
 ```
-composer require koolreport\blade
+composer require koolreport/blade
 ```
 
 ## Get started
