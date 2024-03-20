@@ -1,6 +1,6 @@
 {
     "name": "koolreport/blade",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "description": "Allow KoolReport to use blade template engine to render view",
     "keywords": ["PHP","Reporting Tools","Data Report","blade php","template engine"],
     "homepage": "https://www.koolreport.com",
@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "jenssegers/blade":"^1.1"
+        "jenssegers/blade":"^1"
     }
 }
