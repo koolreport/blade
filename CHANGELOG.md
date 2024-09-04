@@ -1,5 +1,9 @@
 # Change Log
 
+# Version 1.0.2
+
+1. Change jenssegers/blade version to be either ^1 or ^2
+
 # Version 1.0.1
 
 1. Change jenssegers/blade version to be compatible with Laravel 10
